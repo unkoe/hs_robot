@@ -336,10 +336,9 @@ spellAttacks = function(array) {
 }
 
 control.init();
-//clickOnControl(control.get('mode', 'fight'));
-//chooseCasualMode();
+clickOnControl(control.get('mode', 'fight'));
+chooseCasualMode();
 start();
-
 
 let index = 1;
 while (index++>0) {
