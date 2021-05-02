@@ -1,0 +1,13 @@
+{
+    "name": "炉石刷金币",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "launchConfig": {
+        "hideLogs": true
+    },
+    "packageName": "com.example.scipttest",
+    "versionName": "1.0.0",
+    "versionCode": 10
+}
